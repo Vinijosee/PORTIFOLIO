@@ -81,3 +81,8 @@ ul {
     font-family: 'Clicker Script', cursive;
     font-family: 40px;
 }
+.aside .logo a::before
+{
+    content: '';
+    position: absolute;
+}
